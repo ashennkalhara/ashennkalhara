@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ashennkalhara
-- 👀 I’m interested in Frontend devoloping 
+- 👀 I’m interested in fullstack devolopping 
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me ashennkalhara@gmail.com 
 
