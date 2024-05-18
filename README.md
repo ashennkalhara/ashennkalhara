@@ -11,7 +11,7 @@
       <ul>
         <li>🌱 I’m currently learning <b>Java Script</b></li>
         <li>💬 Ask me about <b>Java, C++, HTML, CSS, SQL, C#, PHP</b></li>
-        <li>📫 How to reach me <b>ashennkalhara@gmail.com</b></li>
+        <li>📫 How to reach me <b><a href="mailto:ashennkalhara@gmail.com">ashennkalhara@gmail.com</a></b></li>
       </ul>
     </td>
     <td>
